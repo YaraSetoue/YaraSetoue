@@ -1,86 +1,26 @@
-<br>
+# Yara Setoue
+Here you will find a collection of repositories I've built during my coding journey. It reflects my interests, skills and creativity.
 
-<div align="center">
-  <samp>
-      <br>
-      Hi, I'm Yara</b>
-  </samp>
-</div>
+- 🧠 I’m proficient at Software Development
+- 🎓 Graduated in Systems Analysis and Development
+- 😶‍🌫️ I’m currently learning more about RAG and AI Assistants
 
-<br>
-<br>
+Don't hesitate to contact me. Reach me at:
+<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-894983?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yara-setoue/)
+[![Gmail](https://img.shields.io/badge/Gmail-894983?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ysetoue@gmail.com)
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9745f5&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+Development;Be+welcome!" alt="Typing SVG"/>
-</div>
+<hr>
 
-<br>
-<br>
+### My stack:
 
-<details align="center">  
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
-  
-  <br>
-  
-  <div align="center" style="display: inline_block"><br>
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Light.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Laravel-Dark.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JQuery.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" />
-    <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
-    
-  </div>
-  <br>
-  <div align="center">
-    <img
-      align="center"
-      alt="Top Language"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YaraSetoue&theme=midnight_purple"
-    />
-    <br>
-    <br>
-    <img
-      height=154
-      align="center"
-      alt="Top Language"
-      src="https://github-readme-streak-stats.herokuapp.com?user=YaraSetoue&theme=midnight-purple&card_width=885"
-    />
-    </div>
-
-<br>
-
-##
-
-<br>
-
-<div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logoColor=9745f5)](mailto:ysetoue@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logoColor=9745f5)](https://www.instagram.com/shitsumi)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logoColor=9745f5)](https://www.linkedin.com/in/yara-setoue/)
-  
-</div>
-
-<br>
-
-</details>
-
-<br>
-<br>
+![Python](https://img.shields.io/badge/Python-54096c?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-54096c?style=for-the-badge&logo=react&logoColor=white)
+![Java](https://img.shields.io/badge/Java-54096c?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-54096c?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%2354096c.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-54096c?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-54096c?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-54096c?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-54096c?style=for-the-badge&logo=linux&logoColor=white)
+![PHP](https://img.shields.io/badge/Php-54096c?style=for-the-badge&logo=php&logoColor=white)
