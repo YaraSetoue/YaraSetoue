@@ -14,13 +14,15 @@ Don't hesitate to contact me. Reach me at:
 
 ### My stack:
 
+
+![PHP](https://img.shields.io/badge/Php-54096c?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-54096c?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-54096c?style=for-the-badge&logo=react&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-54096c?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-54096c?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Sql_Server-54096c?style=for-the-badge&logo=sqlserver&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%2354096c.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-54096c?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-54096c?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-54096c?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-54096c?style=for-the-badge&logo=linux&logoColor=white)
-![PHP](https://img.shields.io/badge/Php-54096c?style=for-the-badge&logo=php&logoColor=white)
